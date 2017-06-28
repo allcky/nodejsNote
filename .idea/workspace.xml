@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e576e525-6ea5-44c4-b73b-c30c3e5b386c" name="Default" comment="nodejs">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/3.node-modules/util-public.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/3.node-modules/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/1.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/3.demo/1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/3.demo/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/4.appendFile/1.appendFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/5.unlink/c.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/5.unlink/unlink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/7.rmdir/images/admin/admin.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/7.rmdir/images/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/7.rmdir/images/index/admin.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fs/7.rmdir/rmdir.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7.1 fs模块.md" afterPath="$PROJECT_DIR$/7.1 fs模块.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,31 +29,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.writeFile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js">
+      <file leaf-file-name="mkdir.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="231">
+              <caret line="55" column="11" lean-forward="false" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.writeFileSync.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js">
+      <file leaf-file-name="admin.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/admin/admin.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/fs/2.write/hello.txt">
+      <file leaf-file-name="mkDirMore.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <state relative-caret-position="731">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rmdir.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/rmdir.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -75,6 +93,18 @@
         <option value="$PROJECT_DIR$/demo/fs/2.write/a.txt" />
         <option value="$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js" />
         <option value="$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js" />
+        <option value="$PROJECT_DIR$/demo/fs/3.demo/1.md" />
+        <option value="$PROJECT_DIR$/demo/fs/3.demo/copy.js" />
+        <option value="$PROJECT_DIR$/demo/fs/4.appendFile/1.appendFile.js" />
+        <option value="$PROJECT_DIR$/demo/fs/4.appendFile/a.txt" />
+        <option value="$PROJECT_DIR$/demo/fs/5.unlink/a.txt" />
+        <option value="$PROJECT_DIR$/demo/fs/5.unlink/b.txt" />
+        <option value="$PROJECT_DIR$/demo/fs/5.unlink/c.txt" />
+        <option value="$PROJECT_DIR$/demo/fs/5.unlink/unlink.js" />
+        <option value="$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js" />
+        <option value="$PROJECT_DIR$/demo/fs/7.rmdir/images/index.html" />
+        <option value="$PROJECT_DIR$/demo/fs/7.rmdir/rmdir.js" />
+        <option value="$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js" />
       </list>
     </option>
   </component>
@@ -158,7 +188,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2.write" />
+              <option name="myItemId" value="7.rmdir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7.rmdir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.mkdir" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,6 +267,11 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\fs\7.rmdir" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -201,20 +284,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.2.writeFileSync.js">
-    <configuration default="false" name="1.readFile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.readFile.js" working-dir="$PROJECT_DIR$/demo/fs/1.read">
+  <component name="RunManager" selected="Node.js.mkDirMore.js">
+    <configuration default="false" name="1.appendFile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.appendFile.js" working-dir="$PROJECT_DIR$/demo/fs/4.appendFile">
       <method />
     </configuration>
-    <configuration default="false" name="2.readFileSync.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="2.readFileSync.js" working-dir="$PROJECT_DIR$/demo/fs/1.read">
+    <configuration default="false" name="unlink.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="unlink.js" working-dir="$PROJECT_DIR$/demo/fs/5.unlink">
       <method />
     </configuration>
-    <configuration default="false" name="readFileMore.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="readFileMore.js" working-dir="$PROJECT_DIR$/demo/fs/1.read">
+    <configuration default="false" name="mkdir.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="mkdir.js" working-dir="$PROJECT_DIR$/demo/fs/6.mkdir">
       <method />
     </configuration>
-    <configuration default="false" name="1.writeFile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.writeFile.js" working-dir="$PROJECT_DIR$/demo/fs/2.write">
+    <configuration default="false" name="rmdir.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rmdir.js" working-dir="$PROJECT_DIR$/demo/fs/7.rmdir">
       <method />
     </configuration>
-    <configuration default="false" name="2.writeFileSync.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="2.writeFileSync.js" working-dir="$PROJECT_DIR$/demo/fs/2.write">
+    <configuration default="false" name="mkDirMore.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="mkDirMore.js" working-dir="$PROJECT_DIR$/demo/fs/6.mkdir">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -284,19 +367,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.1.readFile.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.2.readFileSync.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.readFileMore.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.1.writeFile.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.2.writeFileSync.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.1.appendFile.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.unlink.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.2.writeFileSync.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.1.writeFile.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.readFileMore.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.2.readFileSync.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.1.readFile.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.unlink.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.1.appendFile.js" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +395,7 @@
       <updated>1498127105093</updated>
       <workItem from="1498127106442" duration="2225000" />
       <workItem from="1498181870110" duration="9302000" />
-      <workItem from="1498612330393" duration="6718000" />
+      <workItem from="1498612330393" duration="13489000" />
     </task>
     <task id="LOCAL-00001" summary="nodejs">
       <created>1498128600080</created>
@@ -325,17 +408,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18245000" />
+    <option name="totallyTimeSpent" value="25016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2804391" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26746505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7688525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -372,7 +454,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -382,7 +464,7 @@
         <state relative-caret-position="720">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="31" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -452,7 +534,7 @@
         <state relative-caret-position="2400">
           <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -462,7 +544,7 @@
         <state relative-caret-position="311">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="31" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -531,18 +613,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/fs/2.write/a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -555,10 +637,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js">
+    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/1.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/admin.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/copy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/unlink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/4.appendFile/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/4.appendFile/1.appendFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="55" column="11" lean-forward="false" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/rmdir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/admin/admin.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/files/20170628/txt/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
       </provider>
