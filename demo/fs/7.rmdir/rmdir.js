@@ -1,16 +1,27 @@
 var fs = require('fs');
-// fs.rmdir('images',function (err) {
-//     if(err) throw err;
-// })
-fs.readdir('images',function (err,stat) {
-    console.log(stat)
-    stat.forEach((elm,index,array)=>{
-        fs.stat("images/"+elm,function(error,stats){
-            console.log(stats)
-            // console.log(arguments)
-            console.log(stats.isFile())
-            console.log(stats.isDirectory())
-        })
-    })
 
-})
+function rmdir(path){
+    if(!fs.existsSync(path)){
+        return "文件夹不存在";
+    }
+    var lists = fs.readdirSync(path);
+    if(lists.length==0){
+        fs.rmdir(path);
+    }else{
+        // ['index','admin','admin.log']
+        lists.forEach(function(p,i){
+            var stats = fs.statSync(path+'/'+p);
+            if(stats.isDirectory()){
+                rmdir(path+'/'+p);
+
+
+            }else{
+                fs.unlink(path+'/'+p);
+            }
+        })
+        fs.rmdir(path);
+    }
+}
+
+rmdir('images')
+
