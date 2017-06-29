@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e576e525-6ea5-44c4-b73b-c30c3e5b386c" name="Default" comment="nodejs">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/path/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/url/url.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7.核心模块.md" afterPath="$PROJECT_DIR$/7.核心模块.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="path.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="path.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/path/path.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="58" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="url.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/url/url.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -69,6 +78,7 @@
         <option value="$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js" />
         <option value="$PROJECT_DIR$/demo/fs/7.rmdir/rmdir.js" />
         <option value="$PROJECT_DIR$/demo/path/path.js" />
+        <option value="$PROJECT_DIR$/demo/url/url.js" />
       </list>
     </option>
   </component>
@@ -90,7 +100,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1040" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -119,42 +129,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nodejsNote" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsNote" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsNote" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsNote" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsNote" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,10 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.path.js">
-    <configuration default="false" name="unlink.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="unlink.js" working-dir="$PROJECT_DIR$/demo/fs/5.unlink">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.url.js">
     <configuration default="false" name="mkdir.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="mkdir.js" working-dir="$PROJECT_DIR$/demo/fs/6.mkdir">
       <method />
     </configuration>
@@ -220,6 +191,9 @@
       <method />
     </configuration>
     <configuration default="false" name="path.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="path.js" working-dir="$PROJECT_DIR$/demo/path">
+      <method />
+    </configuration>
+    <configuration default="false" name="url.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="url.js" working-dir="$PROJECT_DIR$/demo/url">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -289,19 +263,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.unlink.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.path.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.path.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.url.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.path.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.unlink.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.url.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.path.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.rmdir.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.mkDirMore.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.mkdir.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +291,7 @@
       <updated>1498127105093</updated>
       <workItem from="1498127106442" duration="2225000" />
       <workItem from="1498181870110" duration="9302000" />
-      <workItem from="1498612330393" duration="20371000" />
+      <workItem from="1498612330393" duration="25029000" />
     </task>
     <task id="LOCAL-00001" summary="nodejs">
       <created>1498128600080</created>
@@ -330,7 +304,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31898000" />
+    <option name="totallyTimeSpent" value="36556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,15 +316,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16866267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12574404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29508197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7688525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -712,8 +686,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/path/path.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/url/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
