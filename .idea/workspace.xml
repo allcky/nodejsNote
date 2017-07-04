@@ -2,47 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e576e525-6ea5-44c4-b73b-c30c3e5b386c" name="Default" comment="nodejs">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.7-加密模块.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.8-Nodejs加密.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.9-Nodejs模块OS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/crypto/hmac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/crypto/md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-get/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-get/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-get/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-post/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-post/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-post/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/file.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/incoming_form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/json_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/multipart_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/octet_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/lib/querystring_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/node_modules/formidable/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/ajax-upload/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/form-get/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/form-get/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/http2/form-get/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/os/os.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/2.readStream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/3.writeStram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/4.copy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/5.copy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/a.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/content.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/pms-2.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/pms-3.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/stream/pms.zip" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo11/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo12/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo12/resss/css/b.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo12/static/css/a.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo12/static/js/a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo13/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo13/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo13/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo13/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo13/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/demo14/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/middleware/1.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/middleware/2.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/routemodule/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/routemodule/route/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/routemodule/route/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/tempalte3/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/tempalte3/views/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/tempalte3/views/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/tempalte3/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/tempalte3/views/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template/a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template2/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template2/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/express/template2/views/login.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/stream/1.readStream.js" afterPath="$PROJECT_DIR$/demo/stream/1.readStream.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,7 +46,68 @@
     <favorites_list name="nodejsNote" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/express/template/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,29 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/2.global/global.js" />
-        <option value="$PROJECT_DIR$/5.nodejs的global对象.md" />
-        <option value="$PROJECT_DIR$/demo/2.global/a.html" />
-        <option value="$PROJECT_DIR$/demo/2.global/process.js" />
-        <option value="$PROJECT_DIR$/demo/buffer/create.js" />
-        <option value="$PROJECT_DIR$/demo/3.node-modules/util-public.js" />
-        <option value="$PROJECT_DIR$/demo/3.node-modules/util.js" />
-        <option value="$PROJECT_DIR$/demo/fs/1.fs.js" />
-        <option value="$PROJECT_DIR$/demo/fs/1.read/test.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/1.read/test2.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/1.read/2.readFileSync.js" />
-        <option value="$PROJECT_DIR$/demo/fs/1.read/1.readFile.js" />
-        <option value="$PROJECT_DIR$/demo/fs/1.read/readFileMore.js" />
-        <option value="$PROJECT_DIR$/demo/fs/2.write/a.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js" />
-        <option value="$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js" />
-        <option value="$PROJECT_DIR$/demo/fs/3.demo/1.md" />
-        <option value="$PROJECT_DIR$/demo/fs/3.demo/copy.js" />
-        <option value="$PROJECT_DIR$/demo/fs/4.appendFile/1.appendFile.js" />
-        <option value="$PROJECT_DIR$/demo/fs/4.appendFile/a.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/5.unlink/a.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/5.unlink/b.txt" />
-        <option value="$PROJECT_DIR$/demo/fs/5.unlink/c.txt" />
         <option value="$PROJECT_DIR$/demo/fs/5.unlink/unlink.js" />
         <option value="$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js" />
         <option value="$PROJECT_DIR$/demo/fs/7.rmdir/images/index.html" />
@@ -113,6 +138,34 @@
         <option value="$PROJECT_DIR$/demo/http-server/node_modules/http_server/lib/http.js" />
         <option value="$PROJECT_DIR$/demo/stream/a.html" />
         <option value="$PROJECT_DIR$/demo/stream/1.readStream.js" />
+        <option value="$PROJECT_DIR$/demo/express/demo12/static/js/a.js" />
+        <option value="$PROJECT_DIR$/demo/express/demo12/static/css/a.css" />
+        <option value="$PROJECT_DIR$/demo/express/demo12/resss/css/b.css" />
+        <option value="$PROJECT_DIR$/demo/express/demo12/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/demo11/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/demo13/static/css/index.css" />
+        <option value="$PROJECT_DIR$/demo/express/demo13/index.html" />
+        <option value="$PROJECT_DIR$/demo/express/demo13/static/list.html" />
+        <option value="$PROJECT_DIR$/demo/express/demo13/static/login.html" />
+        <option value="$PROJECT_DIR$/demo/express/demo13/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/demo14/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/middleware/1.app.js" />
+        <option value="$PROJECT_DIR$/demo/express/middleware/2.app.js" />
+        <option value="$PROJECT_DIR$/demo/express/routemodule/route/index.js" />
+        <option value="$PROJECT_DIR$/demo/express/routemodule/route/login.js" />
+        <option value="$PROJECT_DIR$/demo/express/routemodule/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/routemodule/route/admin.js" />
+        <option value="$PROJECT_DIR$/demo/express/template/a.js" />
+        <option value="$PROJECT_DIR$/demo/express/template/views/index.jade" />
+        <option value="$PROJECT_DIR$/demo/express/template2/views/index.ejs" />
+        <option value="$PROJECT_DIR$/demo/express/template2/views/login.ejs" />
+        <option value="$PROJECT_DIR$/demo/express/template2/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/tempalte3/app.js" />
+        <option value="$PROJECT_DIR$/demo/express/tempalte3/views/header.html" />
+        <option value="$PROJECT_DIR$/demo/express/tempalte3/views/footer.html" />
+        <option value="$PROJECT_DIR$/demo/express/tempalte3/views/index.html" />
+        <option value="$PROJECT_DIR$/demo/express/tempalte3/views/login.html" />
+        <option value="$PROJECT_DIR$/demo/express/template/app.js" />
       </list>
     </option>
   </component>
@@ -130,6 +183,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/demo/1module/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demo/express/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo/http-server/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
@@ -195,7 +249,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="http2" />
+              <option name="myItemId" value="express" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejsNote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="express" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tempalte3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,10 +292,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\express\demo13" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\express\tempalte3\views" />
+      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\express\tempalte3" />
+      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\express\template2" />
       <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\http\images" />
       <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\fs\7.rmdir\images" />
-      <recent name="D:\Desktop\WUIW1610-2\nodejsNote\demo\fs\7.rmdir" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,20 +315,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.1.readStream.js">
-    <configuration default="false" name="http2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="http2.js" working-dir="$PROJECT_DIR$/demo/http">
+  <component name="RunManager" selected="Node.js.app.js (3)">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/demo/express/routemodule">
       <method />
     </configuration>
-    <configuration default="false" name="http3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="http3.js" working-dir="$PROJECT_DIR$/demo/http">
+    <configuration default="false" name="a.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="a.js" working-dir="$PROJECT_DIR$/demo/express/template">
       <method />
     </configuration>
-    <configuration default="false" name="http4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="http4.js" working-dir="$PROJECT_DIR$/demo/http">
+    <configuration default="false" name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/demo/express/template">
       <method />
     </configuration>
-    <configuration default="false" name="http5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="http5.js" working-dir="$PROJECT_DIR$/demo/http">
+    <configuration default="false" name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/demo/express/template2">
       <method />
     </configuration>
-    <configuration default="false" name="1.readStream.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.readStream.js" working-dir="$PROJECT_DIR$/demo/stream">
+    <configuration default="false" name="app.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/demo/express/tempalte3">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -317,19 +398,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.http2.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.http3.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.http4.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.http5.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.1.readStream.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.a.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.1.readStream.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.http5.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.http4.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.http3.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.http2.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.a.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +440,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57831000" />
+    <option name="totallyTimeSpent" value="73776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,10 +458,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37213114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71967214" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -415,202 +496,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="nodejs" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/1module/node_modules/webpack/node_modules/events/tests/legacy-compat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.read/test2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/2.global/process.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/buffer/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.read/1.readFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.read/readFileMore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.read/2.readFileSync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.nodejs的global对象.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1143">
-          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/3.node-modules/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/1.read/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/1module/node_modules/webpack/node_modules/memory-fs/lib/MemoryFileSystem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="317" column="83" lean-forward="false" selection-start-line="317" selection-start-column="75" selection-end-line="317" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/2.writeFileSync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/hello.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/2.write/1.writeFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/admin.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/3.demo/copy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/b.txt" />
-    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/a.txt" />
-    <entry file="file://$PROJECT_DIR$/demo/fs/5.unlink/unlink.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/4.appendFile/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/4.appendFile/1.appendFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkdir.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="55" column="11" lean-forward="false" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/index.html" />
-    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/files/20170628/txt/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/6.mkdir/mkDirMore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/admin.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/fs/7.rmdir/images/admin/admin.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -757,6 +648,248 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo12/static/js/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo12/static/css/a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo12/resss/css/b.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo12/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo11/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo13/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo13/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo14/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo13/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/demo13/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/middleware/1.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/middleware/2.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/routemodule/route/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/routemodule/route/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/routemodule/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/routemodule/route/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/node_modules/express/lib/response.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1183">
+          <caret line="947" column="0" lean-forward="false" selection-start-line="947" selection-start-column="0" selection-end-line="947" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template2/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template2/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/tempalte3/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/express/template/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

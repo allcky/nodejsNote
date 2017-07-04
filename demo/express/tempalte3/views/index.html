@@ -1,0 +1,18 @@
+<% include header.html%>
+    <h3><%=title%></h3>
+    <!--这是html的注释-->
+    <%# 这个下面为内容部分%>
+    <p><%=content%></p>
+    <% var a = '<h1>100<h1>'; %>
+    <span><%= a %></span>
+        <span><%- a %></span>
+
+        <% var arr =[10,20,30,40] %>
+
+        <ul>
+            <%for(var i=0;i<arr.length;i++){%>
+            <li><%= arr[i] %></li>
+            <%}%>
+        </ul>
+
+    <% include footer.html%>
